@@ -41,8 +41,7 @@ h1,
 h2,
 h3 {
     color: var(--bright);
-    font-family: var(--headings);
-    text-align: center;
+    font-family: var(--headings)
 }
 
 nav {
